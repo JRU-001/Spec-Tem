@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="title_activity_resultado">Resultado</string>
+    <string name="multiautocompletetextview">MultiAutoCompleteTextView</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento:</string>
+    <string name="registrar">Registrar</string>
+    <string name="enviar">Enviar</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo_dominio_com">correo@dominio.com</string>
+    <string name="correo2">Correo2</string>
+</resources>
