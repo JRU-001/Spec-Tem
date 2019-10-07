@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Forma</string>
+
+    <string-array name="OpEdad">
+        <item>1-17</item>
+        <item>18-29</item>
+        <item>30-50</item>
+        <item>50+</item>
+    </string-array>
+
 </resources>
